@@ -2,3 +2,4 @@ Olá mundo! Meu nome é Marcos e estou aprendendo a usar o git.
 Obrigado e até mais.
 voltei mpara adicionar mais uma linha
 e  mais uma novamente 
+nova adição na branch staging
